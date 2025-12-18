@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Still-GATE",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-18T12:57:44.617996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still-Gate",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_Still-Gate_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still-GATE",
+      "artist": "Orangestar feat. IA",
+      "has_synced": true,
+      "path": "select/02_Still-GATE_Orangestar_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Still‐Gate",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/03_Still‐Gate_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Still-GATE",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Still-GATE_Orangestar.txt"
+    }
+  ]
+}
